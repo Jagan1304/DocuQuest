@@ -1,0 +1,5 @@
+pip install langchain 
+pip install openai
+pip install faiss
+pip install python-telegram-bot
+pip install pypdf
