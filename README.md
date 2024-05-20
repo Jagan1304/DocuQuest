@@ -28,7 +28,7 @@ Ensure you have Python 3.x and pip (package manager) installed on your system.
 Use the following command to clone this project's repository:
 
 ```bash
-git clone https://<your_repository_link>
+git clone https://github.com/Jagan1304/DocuQuest.git
 ```
 
 ### Install Dependencies
